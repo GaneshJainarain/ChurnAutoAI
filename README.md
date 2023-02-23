@@ -21,3 +21,7 @@ When new customers begin buying and/or using a product, each new user contribute
 The Telco customer churn data contains information about a fictional telco company that provided home phone and Internet services to `7043 customers` in California in Q3. It indicates which customers have left, stayed, or signed up for their service. Multiple important `demographics` are included for each customer, as well as a `Satisfaction Score`, `Churn Score`, and `Customer Lifetime Value (CLTV)` index.
 
 
+### IBM Watson Studio
+
+#### `Creating our project`
+![Starting Project](env/Code/ReadMePhotos/IBMWatsonStudioStartingProject.png)
