@@ -25,4 +25,4 @@ The Telco customer churn data contains information about a fictional telco compa
 
 #### `Creating our project`
 
-![Starting Project](env/ReadMePhotos/IBMWatsonStudioStartingProject.png)
+![Starting Project](env/ReadMePhotos/IBMWatsonStudioCreatingProject.png)
