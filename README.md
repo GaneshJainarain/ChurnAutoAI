@@ -24,4 +24,5 @@ The Telco customer churn data contains information about a fictional telco compa
 ### IBM Watson Studio
 
 #### `Creating our project`
+
 ![Starting Project](env/Code/ReadMePhotos/IBMWatsonStudioStartingProject.png)
